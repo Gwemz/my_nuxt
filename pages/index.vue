@@ -89,7 +89,7 @@ export default {
       },1000)
     },
     textClick(){    //文本点击
-      this.showLoginError();
+      // this.showLoginError();
     }
   },
   notifications: {
