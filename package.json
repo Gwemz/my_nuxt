@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "My neat Nuxt.js project",
+  "author": "Gwemz",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "mini-toastr": "^0.8.1",
+    "nuxt": "^2.0.0",
+    "vue-notifications": "^1.0.2"
+  },
+  "devDependencies": {}
+}
